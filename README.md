@@ -1,2 +1,3 @@
-# IPL-analysis
-The Indian premier league(IPL) analysis project is a data analytics project that focuses on analyzing IPL match data to discover useful insights about teams, players, and match performances. the project uses historical IPL datasets to perform statistical analysis and visualize trends such as.
+# IPL Data Analysis(Interactive Dashboard creation using Ms Excel)
+## Project Objective
+The IPL Analysis Wants to show case a all time winner and top scorer between 2008 to 2025.
